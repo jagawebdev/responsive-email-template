@@ -2,7 +2,6 @@
 Fast and easy way to start coding Email Templates for beginners.
 
 ## About the Template
-[Click here](http://jagawebdev.com/responsive-email-template/) to view the Example email template.
 * Template max width is 600px
 * Used inline styling
 * Tested for most popular email clients by EmailOnAcid.com
