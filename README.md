@@ -14,9 +14,9 @@ Fast and easy way to start coding Email Templates for beginners.
 3. Copy and paste the desired layout from the 'Layouts' folder into the 'boilerplate-index.html' file and customize the code for your project.
 
 ### Best Practices
-* Avoid using *p* tag. It give much trouble with some clients.
+* Avoid using *p* tag. It give much trouble with some email clients.
 * Always put *display=block* to all *img* tags, it removes small spacing below images.
-* To make sure images are responsive use two *height* attributes (height="" height="400") for *img* tags. Always define the *height* on the second *height* attribute.
+* Avoid using image *height=""* tag.
 * Always fill *img* *alt* attributes for accessibility reasons and it provides context for images if images are disabled.
 * Always apply *font-family* to texts in the *td* tags
 * Always end lists with below code. It removes added extra bullet point by email clients.
